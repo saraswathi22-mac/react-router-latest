@@ -26,3 +26,5 @@ npm i react-router-dom
 11. Relative Links: featured, new
 
 12. Lazy loading
+
+13. Authentication
