@@ -22,3 +22,7 @@ npm i react-router-dom
 9. URL params
 
 10. Search Params
+
+11. Relative Links: featured, new
+
+12. Lazy loading
