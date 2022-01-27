@@ -18,3 +18,5 @@ npm i react-router-dom
 7. Index Route
 
 8. Dynamic Routes
+
+9. URL params
